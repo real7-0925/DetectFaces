@@ -11,9 +11,20 @@
         android:layout_width="167dp"
         android:layout_height="86dp"
         android:layout_marginTop="210dp"
-        android:text="TextView"
+        android:text="@string/labelname"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="172dp"
+        android:layout_height="89dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginBottom="310dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/labelconfidence"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

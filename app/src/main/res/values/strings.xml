@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DetectFaces</string>
+    <string name="labelname">labelname</string>
+    <string name="labelconfidence">labelconfidence</string>
 </resources>

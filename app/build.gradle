@@ -73,8 +73,8 @@ dependencies {
 //    implementation 'org.apache.httpcomponents:httpclient-android:4.3.5'
 
 
-//    implementation 'com.amplifyframework:aws-storage-s3:1.17.0'
-//    implementation 'com.amplifyframework:aws-auth-cognito:1.17.0'
+    implementation 'com.amplifyframework:aws-storage-s3:1.17.0'
+    implementation 'com.amplifyframework:aws-auth-cognito:1.17.0'
 
 
 }
